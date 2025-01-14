@@ -1,0 +1,37 @@
+# comment
+mami conditions, coll, 220 MeV
+# beam energy [MeV]
+855.0
+# energy spread [MeV]
+0.
+# crystal orientation
+#   Theta [rad]
+0.0607
+#   Alpha [rad]
+0.694
+#   Phi   [rad]
+0.785398
+# horizontal beam spot size [mm]:
+0.2
+# vertical beam spot size [mm]:
+0.06
+# horizontal beam divergence [mrad]:
+0.084
+# vertikal beam divergence [mrad]:
+0.084
+# thickness of diamond radiator [mm]:
+0.1
+# distance target/collimator [m]:
+2.5
+# length of collimator [m]
+0.16
+# radius of collimator [mm]:
+1.5
+# incoherent type: 0 Bethe Heitler, 1 Hubbell
+1
+# number of lattice vectors
+10
+# Z of crystal radiator (Di:6)
+6
+# Z of amorphous radiator (Ni:30)
+30
