@@ -1,21 +1,5 @@
 /*************************************************************************
 
-	ANB - Analytical Bremsstrahl Calculation	AN/11/98
-	Analytical calculation of bremsstrahl spectra with
-	an approximate treatment of beam divergence and beam spot size
-
-	Author	: Frank Alexander Natter,
-			  Physikalisches Institut, Uni. Tuebingen,
-			  Auf der Morgenstelle 14
-			  D 72076 Tuebingen, Germany
-
-	Contact : natter@pit.physik.uni-tuebingen.de
-			  http://www.uni-tuebingen.de/grabmayr
-			  		        (software-page)
-			  Fax: +49/7071/295373
-
-	Version	: 2.0; 18 Nov 1998
-
 	compile	: cc anb.c vec.c -g -lm -o anb
 	input   : 'name'.in		for parameters check comments in example
 	output	: 'name'.vec	readable by PAW (ascii file)
