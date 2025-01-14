@@ -1,7 +1,6 @@
 /*****************************************
  Primitive 3D double vektor - routines
- (C) Frank A. Natter, Uni. Tuebingen
- Version: 6 Apr 1998
+
 *****************************************/
 #include "vec.h"
 
