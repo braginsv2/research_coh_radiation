@@ -15,7 +15,6 @@ output  : 'name'.txt     readable output (ascii file)
     Irel    = (Isum+Iinc)/Iinc
     Pol     = Idif/(Isum+Iinc)
 """
-
 import sys
 import math
 import time
